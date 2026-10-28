@@ -18,7 +18,15 @@
         "logoUrl",
         "bookingEmail"
       ],
-      "preview": "resortiumspot/preview.png"
+      "preview": "resortiumspot/preview.png",
+      "orderNumber": "TVORD81931598",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
     }
   ]
 }

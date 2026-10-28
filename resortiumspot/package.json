@@ -32,5 +32,54 @@
       "logoUrl",
       "bookingEmail"
     ]
+  },
+  "source": {
+    "vendor": "ThemeVault",
+    "vendorUrl": "https://www.themevault.net",
+    "templateName": "ResortiumSpot",
+    "originalPackage": "sports-and-travel-resortiumspot.zip",
+    "originalSha256": "bfc3285b05ac7e003a56033092c1f93951384b0ddda3ff9e6f95daaf10bdd9fa",
+    "downloadHistory": [
+      {
+        "date": "2026-10-27T15:17:50-04:00",
+        "orderNumber": "TVORD81931598",
+        "file": "sports-and-travel-resortiumspot.zip",
+        "retrievedFrom": "ThemeVault account download"
+      }
+    ],
+    "licenseHistory": [
+      {
+        "orderNumber": "TVORD81931598",
+        "purchaseDate": "2026-10-27T19:17:44Z",
+        "amount": 0.0,
+        "currency": "USD",
+        "receiptNumber": null,
+        "licenseType": "Template download (standard package)",
+        "creditRemovalPermitted": true,
+        "evidence": "Your ThemeVault order TVORD81931598 (email dated 2026-10-27T19:17:44Z)"
+      },
+      {
+        "orderNumber": "TVORD30331596",
+        "purchaseDate": "2026-10-27T18:24:00Z",
+        "orderCreated": "2026-10-27T18:20:00Z",
+        "amount": 129.0,
+        "currency": "USD",
+        "receiptNumber": null,
+        "paymentReferenceNumber": "69F57224VW8877631",
+        "paypalTransactionId": "2G4401177R3504237",
+        "paymentMethod": "PayPal",
+        "licenseType": "Pro \u2014 Lifetime",
+        "scope": "account-wide plan; the proof does not name specific templates",
+        "creditRemovalPermitted": null,
+        "evidence": "Email 'Fwd: Your ThemeVault order TVORD30331596' from danummer@gmail.com, received 2026-10-28T16:54Z (original 2026-10-27 2:24 PM EDT), with attachment 'ThemeVault License.pdf' (order page printout, 10/28/26)"
+      }
+    ],
+    "modifications": [
+      "Removed ThemeVault footer credit and backlink comment",
+      "Added preview.png, package.json, AGENTS.md"
+    ],
+    "missing": [
+      "receiptNumber (ThemeVault emails/PDF show no receipt number; see paymentReferenceNumber)"
+    ]
   }
 }
