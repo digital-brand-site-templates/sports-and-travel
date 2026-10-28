@@ -1,0 +1,681 @@
+/*Template Name: resortiumspot
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license*/
+
+@media (max-width: 1240px){
+    .vacation-offer-details {
+        padding: 45px 0 46px 85px;
+    }
+}
+
+@media (max-width: 1199px){
+    .location-address > p {
+        font-size: 12px;
+    }
+    .vacation-offer-details{
+         padding: 45px 0 46px 45px;
+    }
+    .vacation-offer-details > h1{
+        font-size:30px;
+    }
+    #Carousel1 .item h1{
+        font-size: 75px;
+    }
+    .logo h1 {
+    font-size: 44px;
+    }
+}
+@media (max-width: 991px){
+    .pRight-0{
+        padding-right: 0px;
+    }
+    .mb-40 {
+        margin-bottom: 30px;
+    }
+    .header-social-icon > a {
+        font-size: 14px;
+        height: 26px;
+        margin-right: 2px;
+        width: 26px;
+    }
+    .navbar li a {
+        font-size: 13px !important;
+        padding: 2px 8px;
+    }
+    #Carousel1 .item h1 {
+        font-size: 60px;
+        letter-spacing: 6px;
+        line-height: 80px;
+    }
+    #Carousel1 .carousel-caption{
+        top:30%;
+    }
+    section {
+        padding: 80px 0 0;
+    }
+    aside p {
+        font-size: 14px;
+        line-height: 28px;
+        margin: 25px 0;
+    }
+    aside h1 {
+        font-size: 26px;
+    }
+    aside {
+        padding: 30px 0;
+    }
+    .resort-title > h1{
+        padding-bottom: 80px;
+        font-size:28px;
+    }
+    .resort-desc > p {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 16px;
+    }
+    #diamond {
+        margin: 72px auto 60px;
+    }
+    .service-desc {
+        width: 160px;
+    }
+    .service-desc h2 {
+        font-size: 18px;
+        margin-top: 28px;
+    }
+    .vacation-offer-details {
+        padding: 32px 0 32px 40px;
+    }
+    .vacation-offer-details > h1 {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .vacation-offer-details > h4 {
+        font-size: 16px;
+        line-height: 20px;
+        margin: 29px 0 40px;
+    }
+    .vacation-offer-bgbanner {
+        height: 320px;
+    }
+    .room-block #diamond, .activite-block #diamond, .Gallery-block #diamond, .Events-block #diamond {
+        margin: 82px auto 60px;
+    }
+    .room-details h3 {
+        font-size: 18px;
+        margin-top: 18px;
+    }
+    .room-details > p {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .room-details .btn-default {
+        margin-top: 6px;
+    }
+    .counter-bgBanner {
+        padding: 50px 0;
+    }
+    .counter-value > h1 {
+        font-size: 34px;
+        height: 100px;
+        line-height: 99px;
+        margin-top: 10px;
+        width: 100px;
+    }
+    .counter-value > h3 {
+        font-size: 15px;
+        letter-spacing: 2px;
+        margin-top: 50px;
+    }
+    .activitie-grid figure h1 {
+        font-size: 22px;
+    }
+    figure.effect-layla img {
+        height: auto;
+    }
+    .client-name > h4 {
+        font-family: aileronbold;
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 0;
+        text-transform: uppercase;
+    }
+    .client-name h5 {
+        font-size: 13px;
+        text-transform: capitalize;
+    }
+    #triangle_left {
+        bottom: -53px;
+    }
+    .client-says > p {
+        font-size: 14px;
+        line-height: 26px;
+        max-height: 5.5em;
+    }
+    .news-details .btn-default{
+        font-size: 14px;
+    }
+    .news-details > p{
+        font-size: 14px;
+        line-height: 25px;
+        margin: 15px 0 20px;
+    }
+    .news-details > h1{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .pb-100 {
+        padding-bottom: 80px;
+    }
+    .footer-links a {
+        font-size: 14px;
+        line-height: 38px;
+    }
+    .footer-details > h2 {
+        font-size: 20px;
+        letter-spacing: 4px;
+        line-height: 30px;
+        margin-bottom: 30px;
+    }
+    .latest-news a {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .newsletter > h3{
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .input-group {
+        width: 160px;
+    }
+    .footer-divider {
+        margin: 30px 0;
+    }
+    .copyright {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    /*    about page*/
+    .top-bgbanner {
+    height: 350px;
+    padding: 175px 0;
+}
+    .inner-page-heading h1{
+        font-size: 55px;
+    }
+    .dinning-details ul {
+        margin-top: 20px;
+        padding: 0;
+    }
+    .dinning-details ul li a {
+        font-size: 16px;
+        line-height: 48px;
+    }
+    .dinning-details h5 {
+        font-size: 20px;
+        line-height: 34px;
+    }
+    .dinning-banner {
+        height: 350px;
+    }
+    .dinning-details ul li::before {
+        font-size: 16px;
+    }
+    .map iframe{
+        width:100%;
+        height: 260px;
+    }
+    .contact-us-details i {
+        font-size: 18px;
+        margin-right: 16px;
+    }
+    .contact-us-details a {
+        font-size: 14px;
+    }
+    .contact-us-details > li {
+        padding: 0 0 20px;
+    }
+    /*single-news page*/
+    .post-para p {
+        font-size: 12px;
+        line-height: 19px;
+        padding-left: 10px;
+    }
+    #PopularPosts1 > h2, #labels > h2, .book-form h2{
+        font-size: 18px;
+    }
+    .p_bq {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .book-form input, .book-form textarea {
+        font-size: 15px;
+    }
+    .buttons .btn{
+        font-size: 14px;
+    }
+     .middle-header {
+    margin: 30px 0;
+}
+}
+@media (max-width: 964px){
+    .vacation-offer-details {
+        padding: 38px 0 39px 15px;
+    }
+    .vacation-offer-details > h1 {
+        font-size: 28px;
+        line-height: 34px;
+        letter-spacing:3px;
+    }
+}
+@media (max-width: 800px){
+    .vacation-offer-details {
+        padding: 29px 0 29px 15px;
+    }
+    .vacation-offer-details > h1 {
+        font-size: 24px;
+        letter-spacing: 3px;
+        line-height: 34px;
+    }
+    .vacation-offer-details > h4 {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 29px 0 40px;
+    }
+    .vacation-offer-details .btn-default {
+        font-size: 16px;
+    }
+    .vacation-offer-bgbanner {
+        height: 300px;
+    }
+}
+@media (max-width: 767px){
+    .top-header .header-social-icon{
+        text-align: center !important;
+    }
+    .navbar-nav {
+        background-color: rgba(3, 36, 58, 0.75);
+    }
+    .navbar-nav > li {
+        display: block;
+        float: none;
+        text-align: left;
+    }
+    .navbar li a {
+        font-size: 16px !important;
+        padding: 8px 20px;
+    }
+    .navbar-nav {
+        padding: 15px 0;
+        margin: 7.5px 0;
+        background-color: rgba(3, 36, 58, 0.75);
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #fff;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: rgb(16, 152, 247);
+    }
+    #Carousel1 .carousel-caption {
+        top: 24%;
+    }
+    #Carousel1 .item h1 {
+        font-size: 45px;
+        letter-spacing: 4px;
+        line-height: 58px;
+    }
+    section {
+        padding: 60px 0 0;
+    }
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+    aside p {
+        font-size: 13px;
+        line-height: 25px;
+        margin: 20px auto;
+        width: 90%;
+    }
+    aside h1 {
+        font-size: 22px;
+    }
+    aside .button {
+        font-size: 14px;
+        width: 120px;
+    }
+    .button span::after {
+        font-size: 26px !important;
+    }
+    .resort-title > h1 {
+        font-size: 24px;
+        padding-bottom: 60px;
+    }
+    .resort-desc > p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-top: 12px;
+    }
+    #diamond {
+        margin: 50px auto 40px;
+        height: 100px;
+        width: 100px;
+    }
+    #diamond h1 {
+        font-size: 18px;
+        transform: rotate(45deg) translateY(28px) translateX(28px);
+    }
+    .service-desc h2 {
+        font-size: 13px;
+        margin-top: 25px;
+    }
+    .service-desc {
+        width: 120px;
+    }
+    .vacation-offer-details {
+        padding: 24px 0 35px;
+    }
+    .vacation-offer-details > h1 {
+        font-size: 20px;
+        letter-spacing: 2px;
+        line-height: 28px;
+        margin-top: 10px;
+    }
+    .vacation-offer-details > h4 {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 20px 0;
+    }
+    .vacation-offer-bgbanner {
+        height: 250px;
+    }
+    .room-block #diamond, .activite-block #diamond, .Gallery-block #diamond, .Events-block #diamond {
+        margin: 50px auto 40px;
+    }
+    .room-block #diamond h1 {
+        transform: rotate(45deg) translateY(28px) translateX(42px);
+    }
+    .margin-t30{
+        margin-top: 30px;
+    }
+    .margin-t40{
+        margin-top: 40px;
+    }
+    .activite-block #diamond h1 {
+        transform: rotate(45deg) translateY(27px) translateX(21px);
+    }
+    figure.effect-layla figcaption::after {
+        border-left: 1px solid #1098f7;
+        border-right: 1px solid #1098f7;
+        bottom: 15px;
+        left: 35px;
+        right: 35px;
+        top: 15px;
+        transform: scale(1, 0);
+        transform-origin: 100% 0 0;
+    }
+    figure.effect-layla figcaption::before {
+        border-bottom: 1px solid #1098f7;
+        border-top: 1px solid #1098f7;
+        bottom: 35px;
+        left: 15px;
+        right: 15px;
+        top: 35px;
+        transform: scale(0, 1);
+        transform-origin: 0 0 0;
+    }
+    .activitie-grid figure h1 {
+        font-size: 18px;
+    }
+    .Gallery-block #diamond h1 {
+        transform: rotate(45deg) translateY(29px) translateX(34px);
+    }
+    .testimonial-block #diamond h1 {
+        font-size: 16px;
+        transform: rotate(45deg) translateY(29px) translateX(21px);
+    }
+    #triangle_left{
+        top:4px;
+    }
+    .Events-block #diamond h1 {
+        transform: rotate(45deg) translateY(29px) translateX(49px);
+    }
+    #Carousel4 .carousel-inner{
+        overflow: inherit;
+        padding: 0 15px;
+    }
+    /*    about page*/
+    .top-bgbanner {
+       height: 250px;
+    padding: 125px 0;
+    }
+    .inner-page-heading h1 {
+        font-size: 45px;
+    }
+}
+@media (max-width: 500px){ 
+    .margin-top-40{
+        margin-top:40px;
+    }
+    .margin-top-10{
+        margin-top:10px;
+    }
+    .width-33perc{
+        width:33.3333%;
+    }
+    .width-100perc{
+        width: 100%;
+    }
+    .width-50perc{
+        width:50%;
+    }
+    #Carousel1 .carousel-caption {
+        top: 22%;
+    }
+    #Carousel1 .item h1 {
+        font-size: 32px;
+        letter-spacing: 4px;
+        line-height: 42px;
+    }
+    .header-social-icon {
+        padding: 0 0 20px;
+    }
+    .logo h1 {
+        font-size: 36px;
+    }
+    section {
+        padding: 45px 0 0;
+    }
+    .resort-title > h1 {
+        padding-bottom: 45px;
+    }
+    #diamond {
+        margin: 50px auto 20px;
+    }
+    .vacation-offer-details {
+        padding: 25px 0 35px;
+        text-align: center;
+    }
+    .vacation-offer-bgbanner {
+        height: 202px;
+    }
+    .room-block #diamond, .activite-block #diamond, .Gallery-block #diamond, .Events-block #diamond {
+        margin: 50px auto 20px;
+    }
+    .counter-bgBanner {
+        padding: 20px 0;
+    }
+    .counter-value > h3 {
+        margin-top: 30px;
+    }
+    .activitie-grid figure h1{
+        font-size: 26px;
+    }
+    #triangle_left {
+        top: 17px;
+    }
+    .news-details{
+        text-align: center;
+    }
+    .pRight-0 {
+        padding-right: 15px;
+    }
+    .copyright a {
+        line-height: 30px;
+    }
+    /*about page*/
+    .top-bgbanner {
+        height: 250px;
+        padding: 125px 0;
+    }
+    .inner-page-heading h1{
+        font-size: 40px;
+    }
+    .middle-header {
+    margin: 10px 0 25px;
+}
+}
+@media (max-width: 400px){
+    .width_100{
+        width:100%;
+    }
+    .width_50{
+        width:50%;
+    }
+    .m-top-30{
+        margin-top:30px;
+    }
+    .m-top-40{
+        margin-top:40px;
+    }
+    .location-address {
+        padding: 20px 0 0;
+    }
+    .top-header .header-social-icon {
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .logo h1 {
+        font-size: 28px;
+    }
+    #Carousel1 .carousel-caption {
+        top: 20%;
+    }
+    #Carousel1 .item h1 {
+        font-size: 26px;
+        letter-spacing: 3px;
+        line-height: 34px;
+    }
+    aside h1 {
+        font-size: 20px;
+    }
+    aside p {
+        margin: 15px auto;
+    }
+    .vacation-offer-bgbanner{
+        height: 251px;
+    }
+    .room-details h3{
+        max-width: 100%;
+    }
+    .room-details {
+        text-align: center;
+    }
+    .room-image img{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .footer-details{
+        text-align: center; 
+    }
+    .input-group{
+        width:220px;
+        margin-left:auto;
+        margin-right: auto;
+    }
+    #triangle_left {
+        top: 4px;
+    }
+    #Carousel4 .carousel-control {
+        width: 12%;
+        top: 34%;
+    }
+    #Carousel3 .carousel-control {
+        width: 12%;
+        top: 45%;
+    }
+    #Carousel2 .carousel-control{
+        width: 12%;
+        top: 41%;
+    }
+    .dinning-details h5 {
+        font-size: 18px;
+        line-height: 34px;
+    }
+    .latest-news > li {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+.middle-header {
+    margin: 10px 0 25px;
+}
+.top-bgbanner {
+    height: 200px;
+    padding: 100px 0;
+}
+.inner-page-heading h1{
+        font-size: 37px;
+    }
+}
+@media (max-width: 359px){
+    .wdt-100{
+        width:100%;
+    }
+    .dinning-details h5 {
+        font-size: 18px;
+        line-height: 34px;
+    }
+    #Carousel1 .item h1 {
+        font-size: 22px;
+        letter-spacing: 2px;
+        line-height: 28px;
+    }
+    .logo h1 {
+        font-size: 25px;
+    }
+    aside h1{
+        letter-spacing: 1px;
+        font-size: 19px;
+    }
+    .activitie-grid figure h1 {
+        font-size: 20px;
+    }
+    .news-details > h1{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .news-details > p {
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .footer-details > h2{
+        margin-bottom: 20px;
+    }
+    aside p{
+        font-size: 12px;
+        line-height: 22px;
+    }
+    .resort-title > h1{
+        font-size: 22px;
+    }
+    .dinning-details h5 {
+        font-size: 16px;
+        line-height: 34px;
+    }
+    .dinning-details ul li a {
+        font-size: 14px;
+        line-height: 48px;
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "tpl-sports-and-travel-resortiumspot",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve src",
+    "build": "echo static site, no build step",
+    "verify": "echo static site, nothing to verify"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "agentMeta": {
+    "category": "sports-and-travel",
+    "idealFor": [
+      "resorts",
+      "hotels",
+      "vacation lodges",
+      "bed and breakfasts"
+    ],
+    "buildOutputDir": "src",
+    "customizationMap": {
+      "themeColors": "src/css/style.css",
+      "siteMetadata": "src/home.html (<head> title and meta tags)",
+      "navigation": "src/home.html (<header>/<nav> block, repeated in each page)",
+      "pagesDir": "src"
+    },
+    "requiredClientInputs": [
+      "resortName",
+      "primaryColorHex",
+      "logoUrl",
+      "bookingEmail"
+    ]
+  }
+}

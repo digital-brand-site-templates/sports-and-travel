@@ -1,0 +1,24 @@
+{
+  "category": "sports-and-travel",
+  "templates": [
+    {
+      "name": "Resortiumspot",
+      "folder": "resortiumspot",
+      "version": "1.0.0",
+      "description": "Resortiumspot \u2013 static HTML/Bootstrap Sports & Travel website template.",
+      "idealFor": [
+        "resorts",
+        "hotels",
+        "vacation lodges",
+        "bed and breakfasts"
+      ],
+      "requiredClientInputs": [
+        "resortName",
+        "primaryColorHex",
+        "logoUrl",
+        "bookingEmail"
+      ],
+      "preview": "resortiumspot/preview.png"
+    }
+  ]
+}
