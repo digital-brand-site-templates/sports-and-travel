@@ -2,10 +2,10 @@
   "category": "sports-and-travel",
   "templates": [
     {
-      "name": "Resortiumspot",
-      "folder": "resortiumspot",
+      "name": "Resortium-Spot",
+      "folder": "resortium-spot",
       "version": "1.0.0",
-      "description": "Resortiumspot \u2013 static HTML/Bootstrap Sports & Travel website template.",
+      "description": "Resortium-Spot \u2013 static HTML/Bootstrap Sports & Travel website template.",
       "idealFor": [
         "resorts",
         "hotels",
@@ -18,7 +18,7 @@
         "logoUrl",
         "bookingEmail"
       ],
-      "preview": "resortiumspot/preview.png",
+      "preview": "resortium-spot/preview.png",
       "orderNumber": "TVORD81931598",
       "license": {
         "templateOrderAmount": 0.0,

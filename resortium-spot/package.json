@@ -1,5 +1,5 @@
 {
-  "name": "tpl-sports-and-travel-resortiumspot",
+  "name": "tpl-sports-and-travel-resortium-spot",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -80,6 +80,7 @@
     ],
     "missing": [
       "receiptNumber (ThemeVault emails/PDF show no receipt number; see paymentReferenceNumber)"
-    ]
+    ],
+    "originalTemplateName": "ResortiumSpot"
   }
 }
