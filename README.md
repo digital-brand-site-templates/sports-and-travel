@@ -8,5 +8,4 @@ Static website templates for the Sports & Travel category.
 
 Preview gallery: https://digital-brand-site-templates.github.io/sports-and-travel/
 
-- [Food-Vivers](food-vivers/)
 - [Resortium-Spot](resortium-spot/)
